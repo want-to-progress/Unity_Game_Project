@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/FungusExamples/JumpingPrax/JumpingPrax.unity
+- path: Assets/Scenes/pro_1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
